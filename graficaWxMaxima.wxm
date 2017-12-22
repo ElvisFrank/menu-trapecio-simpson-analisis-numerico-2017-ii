@@ -1,0 +1,30 @@
+/* [wxMaxima batch file version 1] [ DO NOT EDIT BY HAND! ]*/
+/* [ Created with wxMaxima version 16.04.2 ] */
+
+/* [wxMaxima: input   start ] */
+ wxdraw2d(color=blue,
+ explicit(cos(x), x, -0.20000000     ,   2.2000000     ),
+ head_both   = false,
+ head_length = 0.000001,
+ line_width = 0.63,
+ head_angle = 1,
+ head_type = nofilled,
+ line_type = solid,
+ color = orange,
+ vector([   0.0000000     ,0],[0,   1.0000000     ]),
+ vector([  0.40000001     ,0],[0,  0.92106098     ]),
+ vector([  0.80000001     ,0],[0,  0.69670671     ]),
+ vector([   1.2000000     ,0],[0,  0.36235771     ]),
+ vector([   1.6000000     ,0],[0, -2.91995462E-02 ]),
+ vector([   2.0000000     ,0],[0, -0.41614684     ]),
+ color=red,
+ head_both   = true,
+ vector([   0.0000000     , 0],[   2.0000000     , 0]),
+ grid=true,
+ xlabel="X",
+ ylabel="Y",
+ title="Simpson - Trapecio");
+/* [wxMaxima: input   end   ] */
+
+/* Maxima cant load/batch files which end with a comment! */
+Created with wxMaxima"$
